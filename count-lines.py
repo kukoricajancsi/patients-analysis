@@ -1,5 +1,8 @@
 import sys
 
+"""This module counts the number of lines in standard input
+Input: any strings from system standard input"""
+
 count = 0
 
 for line in sys.stdin:
